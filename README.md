@@ -3,8 +3,7 @@
   <p><strong>Automate. Personalize. Generate.</strong></p>
   <p>A variable-data automation script for Adobe Illustrator.</p>
 </div>
-<img width="1672" height="941" alt="01-variable-data-studio-cover" src="https://github.com/user-attachments/assets/158603f0-4ab2-4f9e-8cbb-77fa7c90ac9f" />
-
+<img width="6967" height="3921" alt="01-variable-data-studio-cover" src="https://github.com/user-attachments/assets/8374e8ac-ce40-443f-b305-ad88a474251b" />
 ---
 
 ## Overview
